@@ -5,4 +5,4 @@ Create a database named "movie.sql"
 Copy paste the following command:
 --> SET autocommit=0 ; source movie.sql ; COMMIT ;
 Your database is now set up.
-Go to src/dbproject/login.java and run the file.
+Go to src/dbproject/login_page.java and run the file.
